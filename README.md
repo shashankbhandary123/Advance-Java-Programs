@@ -97,20 +97,21 @@
   7b. SetCookie o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/7.JSP%20programs/7b.Cookie%20Management/Cookie_Management_JSP.png
   
 
- ##  Mysql
-  8a. mysql_select o/p link - 
+ ##  Mysql _JDBC
+  8a. mysql_select o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/8.Mysql_JDBC/mysql_8a%20%26%208b/mysql_select.png
 
-  8b. mysql_update o/p link - 
+  8b. mysql_update o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/8.Mysql_JDBC/mysql_8a%20%26%208b/mysql_update.png
 
-  9a. mysql_Delete o/p link - 
-
-  9b. mysql_startwith_D o/p link - 
-
-   ##  JDBC
-8c. InsertEmployee o/p link - 
+  8c. InsertEmployee o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/8.Mysql_JDBC/JDBC_8c%20%268d/index_Insert_Employee.png
     Report o/p link - 
     
-8d. updateForm,updateEmployee o/p link - 
+8d. updateForm,updateEmployee o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/8.Mysql_JDBC/JDBC_8c%20%268d/Report.jsp.png
+   
+
+   ##  JDBC
+9a. mysql_Delete o/p link - 
+
+  9b. mysql_startwith_D o/p link -
 
 9c. SalaryReportR
 o/p link - 
