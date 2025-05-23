@@ -105,7 +105,7 @@
   8c. InsertEmployee o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/8.Mysql_JDBC/JDBC_8c%20%268d/index_Insert_Employee.png
     Report o/p link - 
     
-8d. updateForm,updateEmployee o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/8.Mysql_JDBC/JDBC_8c%20%268d/Report.jsp.png
+8d. updateForm,updateEmployee o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/8.Mysql_JDBC/JDBC_8c%20%268d/Report.png
    
 
    ##  JDBC
