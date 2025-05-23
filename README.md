@@ -94,7 +94,7 @@
   7a. Session Managment,second o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/7.JSP%20programs/7a.Session%20Management/Session_Management_JSP.png
   
   ### Cookie_Management
-  7b. SetCookie o/p link - 
+  7b. SetCookie o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/7.JSP%20programs/7b.Cookie%20Management/Cookie_Management_JSP.png
   
 
  ##  Mysql
