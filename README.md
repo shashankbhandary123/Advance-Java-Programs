@@ -35,9 +35,10 @@
 
 ---
 ## 2.String
-2a. String_operations o/p link - 
+2a. String_operations o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/2.String/2a.String_Operations/String_operations.png
 
-2b. PerformanceTest o/p link - 
+2b. PerformanceTest o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/2.String/2b.Performance%20Test/PerformanceTest.png  
+## 3.String Exercise
 3a. String_operations o/p link - 
 1. Check_null o/p link - 
 
