@@ -63,7 +63,7 @@
 
 10. CountWords_String o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/3.String%20Exercise/3c.String%20Exercise2/CountWords_String.png
 ---
-##  Swing
+##  4 & 5. Swing
 4a. label_hello_program_Swing o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/4.Swing/4a.Jlabel_Simple_Swing/Jlabel_hello_program_Swing.png  
 
 4b. Jbutton_Swing_Srilanka o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/4.Swing/4b.JButton_ActionListener/Jbutton_Swing_Srilanka.png  
@@ -79,7 +79,7 @@
 5d. Tapped_Pan2_Swing o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/5.Swing2/5d.Tabbed%20Pan2/Tapped_Pan2_Swing.png
 
 ---
-##  Servlet_Programs
+##  6.Servlet_Programs
    ### Factorial_Caclulator
    6a. FactorialServlet o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/6.Servlet%20Programs/6a.Factorial%20Program/FactorialServlet.png  
    
@@ -89,7 +89,7 @@
    6c. primeServlet o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/6.Servlet%20Programs/6c.Prime%20Check/Prime_Servlet.png  
    
  ---  
-##  JSP_programs 
+##  7.JSP_programs 
 ### Session_Management
   7a. Session Managment,second o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/7.JSP%20programs/7a.Session%20Management/Session_Management_JSP.png
   
@@ -97,28 +97,26 @@
   7b. SetCookie o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/7.JSP%20programs/7b.Cookie%20Management/Cookie_Management_JSP.png
   
 
- ##  Mysql _JDBC
+ ## 8. Mysql _JDBC
   8a. mysql_select o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/8.Mysql_JDBC/mysql_8a%20%26%208b/mysql_select.png
 
   8b. mysql_update o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/8.Mysql_JDBC/mysql_8a%20%26%208b/mysql_update.png
 
-  8c. InsertEmployee o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/8.Mysql_JDBC/JDBC_8c%20%268d/index_Insert_Employee.png
-    Report o/p link - 
+  8c. InsertEmployee o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/8.Mysql_JDBC/JDBC_8c%20%268d/index_Insert_Employee.png  
+    Report o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/8.Mysql_JDBC/JDBC_8c%20%268d/Report.png
     
-8d. updateForm,updateEmployee o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/8.Mysql_JDBC/JDBC_8c%20%268d/Report.png
+8d. updateForm,updateEmployee o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/8.Mysql_JDBC/JDBC_8c%20%268d/updateForm.png
    
 
-   ##  JDBC
-9a. mysql_Delete o/p link - 
+   ##  9.Mysql_JDBC
+9a. mysql_Delete o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/9.Mysql_JDBC/mysql_9a%20%26%209b/mysql_Delete.png
 
-  9b. mysql_startwith_D o/p link -
+  9b. mysql_startwith_D o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/9.Mysql_JDBC/mysql_9a%20%26%209b/mysql_startwith_D.png
 
-9c. SalaryReportR
-o/p link - 
-    Report o/p link - 
+9c. SalaryReportR o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/9.Mysql_JDBC/JDBC_9c%20%26%209d/salaryReportR.png
     
-9d. deleteEmployee o/p link - 
-    SalaryReportS o/p link - 
+9d. deleteEmployee o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/9.Mysql_JDBC/JDBC_9c%20%26%209d/deleteEmployee.png  
+    SalaryReportS o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/9.Mysql_JDBC/JDBC_9c%20%26%209d/salaryReportS.png 
 
    
 
