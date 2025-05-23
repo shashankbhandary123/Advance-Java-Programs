@@ -39,25 +39,29 @@
 
 2b. PerformanceTest o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/2.String/2b.Performance%20Test/PerformanceTest.png  
 ## 3.String Exercise
-3a. String_operations o/p link - 
-1. Check_null o/p link - 
+3a. String_operations o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/3.String%20Exercise/3a.String%20Operations/String_operations.png  
 
-2. Count_occurences o/p link - 
+3b.  
+1. Check_null o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/3.String%20Exercise/3b.String%20Exercise/Check_null.png
 
-3. reverse_String o/p link - 
+2. Count_occurences o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/3.String%20Exercise/3b.String%20Exercise/Count_occurences.png
 
-4. isPalindrome o/p link - 
+3. reverse_String o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/3.String%20Exercise/3b.String%20Exercise/reverse_String.png
 
-5. removewhitespace o/p link - 
+4. isPalindrome o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/3.String%20Exercise/3b.String%20Exercise/isPalindrome.png
+
+5. removewhitespace o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/3.String%20Exercise/3b.String%20Exercise/removewhitespace.png  
+
 3c.  
-6. String_capitalizeWords o/p link - 
+6. String_capitalizeWords o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/3.String%20Exercise/3c.String%20Exercise2/String_capitalizeWords.png
  
-7. truncate o/p link - 
-8. isNumeric_String o/p link - 
+7. truncate o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/3.String%20Exercise/3c.String%20Exercise2/truncate.png  
 
-9. generate_RandomString o/p link - 
+8. isNumeric_String o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/3.String%20Exercise/3c.String%20Exercise2/isNumeric_String.png
 
-10. CountWords_String o/p link - 
+9. generate_RandomString o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/3.String%20Exercise/3c.String%20Exercise2/generate_RandomString.png
+
+10. CountWords_String o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/3.String%20Exercise/3c.String%20Exercise2/CountWords_String.png
 ---
 ## 📂 Swing
 4a. label_hello_program_Swing o/p link - 
