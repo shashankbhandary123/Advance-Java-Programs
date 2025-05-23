@@ -6,7 +6,7 @@
 ---
 
 ## 1.ArrayList
-1a. Arraylist_Linkedlist o/p link -  
+1a. Arraylist_Linkedlist o/p link -  https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/1.List%20Operations/1a.Arraylist_Linkedlist_operations/arraylist_linkedlist.png
 
 1b.  
 1. arraylist_search o/p link - 
