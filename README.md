@@ -96,7 +96,7 @@
   ### Cookie_Management
   7b. SetCookie o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/7.JSP%20programs/7b.Cookie%20Management/Cookie_Management_JSP.png
   
-
+---
  ## 8. Mysql _JDBC
   8a. mysql_select o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/8.Mysql_JDBC/mysql_8a%20%26%208b/mysql_select.png
 
@@ -107,7 +107,7 @@
     
 8d. updateForm,updateEmployee o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/8.Mysql_JDBC/JDBC_8c%20%268d/updateForm.png
    
-
+---
    ##  9.Mysql_JDBC
 9a. mysql_Delete o/p link - https://github.com/shashankbhandary123/Advance-Java-Programs/blob/main/9.Mysql_JDBC/mysql_9a%20%26%209b/mysql_Delete.png
 
